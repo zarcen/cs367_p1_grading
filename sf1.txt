@@ -1,0 +1,15 @@
+i
+s prod1
+s prod2
+s prod3
+s prod4
+s prod5
+s unknown_product
+f cust1
+f cust2
+f cust3
+f cust4
+f cust5
+f unknown_customer
+i
+q

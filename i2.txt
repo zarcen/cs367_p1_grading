@@ -1,0 +1,12 @@
+i
+d prod1
+i
+d prod2
+i
+d prod3
+i
+d prod4
+i
+d prod5
+i
+q

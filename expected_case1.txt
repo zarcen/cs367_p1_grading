@@ -1,0 +1,20 @@
+d <product> - discontinue the given <product>
+f <customer> - find the given <customer>
+h - display this help menu
+i - display information about this customer database
+s <product> - search for the given <product>
+q - quit
+r <customer> - remove the given <customer>
+Enter option ( dfhisqr ): cust1:prod1
+Enter option ( dfhisqr ): cust2:prod1,prod2
+Enter option ( dfhisqr ): cust3:prod1,prod2,prod3
+Enter option ( dfhisqr ): prod1:cust1,cust2,cust3,cust4,cust5
+Enter option ( dfhisqr ): prod2:cust2,cust3,cust4,cust5
+Enter option ( dfhisqr ): prod3:cust3,cust4,cust5
+Enter option ( dfhisqr ): customer removed
+Enter option ( dfhisqr ): product discontinued
+Enter option ( dfhisqr ): Customers: 4, Products: 4
+# of products/customer: most 4, least 1, average 3
+# of customers/product: most 4, least 1, average 3
+Most popular product: prod1 [4]
+Enter option ( dfhisqr ): quit

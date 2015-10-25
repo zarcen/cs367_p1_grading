@@ -1,0 +1,5 @@
+cust1,prod1
+cust2,prod1,prod2
+cust3,prod1,prod2,prod3
+cust4,prod1,prod2,prod3,prod4
+cust5,prod1,prod2,prod3,prod4,prod5

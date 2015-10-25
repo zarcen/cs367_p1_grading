@@ -1,0 +1,12 @@
+f bluesky23
+f luckydog
+s cx26-288-137
+s cs367-002-bkk
+i
+r me@home.net
+i
+d et42-763-352
+i
+f me@home.net
+s et42-763-352
+q

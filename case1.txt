@@ -1,0 +1,10 @@
+f Cust1
+f CUST2
+f cUst3
+s Prod1
+s PROD2
+s prOd3
+r CUST4
+d PROD4
+i
+q

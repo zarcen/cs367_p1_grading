@@ -1,0 +1,28 @@
+d <product> - discontinue the given <product>
+f <customer> - find the given <customer>
+h - display this help menu
+i - display information about this customer database
+s <product> - search for the given <product>
+q - quit
+r <customer> - remove the given <customer>
+Enter option ( dfhisqr ): bluesky23:cx26-288-137,gv59-426-358,et42-763-352,hz97-192-156,hn57-530-445,es70-741-309,ep62-262-118,hp49-688-244,hs71-704-277,bs48-271-179,ht89-391-408,ex77-378-187,hz39-671-276
+Enter option ( dfhisqr ): customer not found
+Enter option ( dfhisqr ): cx26-288-137:buckybadger2014,bluesky23,r@nd0mn@m3,me@home.net,1luckydog
+Enter option ( dfhisqr ): product not found
+Enter option ( dfhisqr ): Customers: 8, Products: 30
+# of products/customer: most 16, least 3, average 9
+# of customers/product: most 5, least 1, average 2
+Most popular product: cx26-288-137,et42-763-352 [5]
+Enter option ( dfhisqr ): customer removed
+Enter option ( dfhisqr ): Customers: 7, Products: 30
+# of products/customer: most 16, least 3, average 9
+# of customers/product: most 5, least 1, average 2
+Most popular product: et42-763-352 [5]
+Enter option ( dfhisqr ): product discontinued
+Enter option ( dfhisqr ): Customers: 7, Products: 29
+# of products/customer: most 15, least 3, average 9
+# of customers/product: most 4, least 1, average 2
+Most popular product: cx26-288-137,kp19-110-126 [4]
+Enter option ( dfhisqr ): customer not found
+Enter option ( dfhisqr ): product not found
+Enter option ( dfhisqr ): quit

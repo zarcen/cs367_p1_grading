@@ -1,0 +1,12 @@
+i
+d prod5
+s prod5
+f cust5
+i
+d prod3
+s prod3
+f cust3
+f cust4
+f cust5
+i
+q
